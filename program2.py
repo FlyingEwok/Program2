@@ -8,7 +8,7 @@ print("Before Exchange: num1 = ", num1, " num2 = ", num2)
 
 #Swap num1 & num2
 
-#Swap numbers by getting sum of 2 numbers and swapping by using subtraction from the sum
+#Swap numbers by getting sum of the 2 numbers and swapping by using subtraction from the sum
 num1 = num1 + num2
 num2 = num1 - num2
 num1 = num1 - num2
