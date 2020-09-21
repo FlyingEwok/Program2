@@ -16,4 +16,3 @@ num1 = num1 - num2
 #Print variable values out after exchange
 print("After Exchange: num1 = ", num1, " num2 = ", num2)
 
-print("Hello")
